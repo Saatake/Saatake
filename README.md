@@ -1,4 +1,4 @@
-# Olá!Eu sou o Edson! 👋
+# Olá! Eu sou o Edson! 👋
 
 Tenho 21 anos e estudo Engenharia de Computação na FACENS (Sorocaba/SP), atualmente no 3º semestre! Sou apaixonado por tecnologia e planejo seguir carreira como desenvolvedor back-end.
 
