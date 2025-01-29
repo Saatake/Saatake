@@ -5,12 +5,8 @@ Tenho 21 anos e estudo Engenharia de Computação na FACENS (Sorocaba/SP), atual
 
 ## 📫 Entre em contato!
 
-<a href="mailto:edsonsatake510@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/edson-satake-6142a8281">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonsatake510@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-satake-6142a8281)
 
 
 ## 🖥️ Tecnologias que estou aprendendo
