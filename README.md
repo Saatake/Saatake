@@ -8,11 +8,11 @@
 
 ## Sobre mim
 
-- Estudante de **Engenharia de Computacao** na FACENS (Sorocaba/SP) — 5º semestre
-- Estagiario em **Engenharia de Software** na **CNH**
-- Apaixonado por desenvolvimento **back-end** e arquitetura de sistemas
-- Atualmente trabalhando com **React, C# .NET e PostgreSQL**
-- Objetivo: me tornar um desenvolvedor back-end completo
+- Estudante de Engenharia de Computacao na FACENS (Sorocaba/SP) — 5º semestre
+- Estagiario em Engenharia de Software na CNH
+- Apaixonado por desenvolvimento back-end e arquitetura de sistemas
+- Atualmente trabalhando com React, C# .NET e PostgreSQL
+- Objetivo: me tornar um desenvolvedor back-end
 
 ---
 
