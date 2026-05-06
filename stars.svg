@@ -1,5 +1,5 @@
 <svg width="800" height="120" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117;border-radius:12px">
-  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="white">👋 oi, eu sou o Edson!</text>
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="20" fill="white">Oii, eu sou o Edson!</text>
   <text x="50%" y="72%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="11" fill="rgba(255,255,255,0.5)">Engenharia de Computação · FACENS · Sorocaba/SP</text>
   <!-- estrelas -->
   <circle cx="40"  cy="0" r="1.5" fill="white" opacity="0.8"><animate attributeName="cy" from="-5" to="125" dur="3.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.1s" repeatCount="indefinite"/></circle>
