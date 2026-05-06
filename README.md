@@ -42,8 +42,8 @@
 
 ## projetos em destaque
 
-[![nexora-app](https://github-readme-stats.vercel.app/api/pin/?username=Saatake&repo=nexora-app&theme=tokyonight&hide_border=true&v=1)](https://github.com/Saatake/nexora-app)
-[![iot-pet-feeder-firmware](https://github-readme-stats.vercel.app/api/pin/?username=Saatake&repo=iot-pet-feeder-firmware&theme=tokyonight&hide_border=true&v=1)](https://github.com/Saatake/iot-pet-feeder-firmware)
+[![nexora-app](https://github-readme-stats-six-phi-80.vercel.app/api/pin/?username=Saatake&repo=nexora-app&theme=tokyonight&hide_border=true)](https://github.com/Saatake/nexora-app)
+[![iot-pet-feeder-firmware](https://github-readme-stats-six-phi-80.vercel.app/api/pin/?username=Saatake&repo=iot-pet-feeder-firmware&theme=tokyonight&hide_border=true)](https://github.com/Saatake/iot-pet-feeder-firmware)
 
 ---
 
