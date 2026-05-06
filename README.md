@@ -50,13 +50,13 @@
 ## github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saatake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=1" />
+  <img src="https://github-readme-stats-six-phi-80.vercel.app/api?username=Saatake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saatake&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&v=1" />
+  <img src="https://github-readme-stats-six-phi-80.vercel.app/api/top-langs/?username=Saatake&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
