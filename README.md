@@ -42,25 +42,25 @@
 
 ## projetos em destaque
 
-[![nexora-app](https://github-readme-stats-six-phi-80.vercel.app/api/pin/?username=Saatake&repo=nexora-app&theme=tokyonight&hide_border=true)](https://github.com/Saatake/nexora-app)
-[![iot-pet-feeder-firmware](https://github-readme-stats-six-phi-80.vercel.app/api/pin/?username=Saatake&repo=iot-pet-feeder-firmware&theme=tokyonight&hide_border=true)](https://github.com/Saatake/iot-pet-feeder-firmware)
+[![nexora-app](https://github-readme-stats-fast.vercel.app/api/pin/?username=Saatake&repo=nexora-app&theme=tokyonight&hide_border=true)](https://github.com/Saatake/nexora-app)
+[![iot-pet-feeder-firmware](https://github-readme-stats-fast.vercel.app/api/pin/?username=Saatake&repo=iot-pet-feeder-firmware&theme=tokyonight&hide_border=true)](https://github.com/Saatake/iot-pet-feeder-firmware)
 
 ---
 
 ## github stats
 
 <div align="center">
-  <img src="https://github-readme-stats-six-phi-80.vercel.app/api?username=Saatake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saatake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-six-phi-80.vercel.app/api/top-langs/?username=Saatake&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saatake&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saatake&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Saatake&theme=tokyonight&hide_border=true" />
 </div>
